@@ -4,14 +4,20 @@
 @import url("https://fonts.googleapis.com/css2?family=Rampart+One&display=swap");
 
 @layer base {
-  body {
+
+  /* * {
     @apply font-[Raleway];
   }
 
   li {
     @apply px-4;
     @apply cursor-pointer;
+  } */
+  body {
+    background-color: #000300;
   }
+
+
 }
 
 /* body {
